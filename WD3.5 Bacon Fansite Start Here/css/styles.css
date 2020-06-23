@@ -1,0 +1,31 @@
+/***********************TAG SELECTOR********************/
+body{
+  background-color: #fde2e2;
+}
+
+h1{color: #679b9b;
+  font-size: 50px;
+  font-family: cursive;
+}
+p{color: #aacfcf;
+  font-size: 25px;
+  font-family: fantasy;}
+
+img:hover{
+  background-color: gold;
+}
+/**************************CLASS SELECTOR*******************/
+.bacon{
+  background-color: #888888;
+}
+.avo{
+  background-color: #fcbf1e;
+}
+
+/************************ID SELECTOR**********************/
+#heading{
+  color: #7d5a5a;
+}
+#heading:hover{
+  color: #efa8e4;
+}
